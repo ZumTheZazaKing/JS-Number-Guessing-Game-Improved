@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: burlywood;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1028%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M199.66939167872346 185.381217986303L131.48502064507676 119.53633626182985 65.64013892060362 187.72070729547653 133.8245099542503 253.5655890199497z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M833.8743504162347 5.652712432503674L753.7002839931496 128.85274163613963 881.8798628095019 137.81593093902907z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M995.34 247.2 a185.26 185.26 0 1 0 370.52 0 a185.26 185.26 0 1 0 -370.52 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M440.89202091745267 108.70725523539399L395.5371153263608-9.446313350179338 277.38354674078744 35.90859224091257 322.73845233187933 154.0621608264859z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M639.1433537900646 378.03144430515533L673.6525484259759 478.2534227466006 773.8745268674211 443.7442281106894 739.3653322315099 343.5222496692441z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1319.5166541330896-84.20052744711593L1216.211483151263-58.44365548284388 1306.4993765885845 83.63566500775943z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M364.3616247750885 233.27020454868008L429.6082184470912 163.30179905912993 359.63981295754104 98.05520538712724 294.39321928553835 168.0236108766774z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M978.93 240.81 a120.24 120.24 0 1 0 240.48 0 a120.24 120.24 0 1 0 -240.48 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M978.5234694982205 287.63549758439655L988.7815710395951 352.40260172894057 1080.8031764857237 304.6318973446067z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M958.9 537.77 a122.43 122.43 0 1 0 244.86 0 a122.43 122.43 0 1 0 -244.86 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M-52.62 45.98 a118.26 118.26 0 1 0 236.52 0 a118.26 118.26 0 1 0 -236.52 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M387.72 367.14 a111.79 111.79 0 1 0 223.58 0 a111.79 111.79 0 1 0 -223.58 0z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M194.644%2c709.058C249.892%2c713.11%2c300.886%2c678.077%2c327.84%2c629.681C354.097%2c582.536%2c349.598%2c525.629%2c322.931%2c478.714C295.921%2c431.195%2c249.299%2c396.008%2c194.644%2c395.35C138.93%2c394.679%2c84.819%2c425.239%2c60.894%2c475.559C39.392%2c520.783%2c66.584%2c568.895%2c91.473%2c612.346C116.585%2c656.185%2c144.257%2c705.363%2c194.644%2c709.058' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1028'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+}
+
+.hide{
+    display: none !important;
+}
+
+.blink{
+    animation: blink 1s linear infinite;
+}
+
+@keyframes blink{
+
+    0%{opacity: 1;}
+    50%{opacity: 0.5;}
+    100%{opacity: 1;}
+
+}
+
+.container{
+    background-color: #fff;
+    padding: 10px 20px 20px 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 50px;
+    width: 400px;
+}
+
+.header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.desc{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.rangeText, .lives{
+    font-size: 16px;
+}
+
+.button{
+    padding: 10px 20px;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.button:hover{
+    box-shadow: 0 0 0px 3px rgb(0, 0, 0);
+}
+
+.easy{
+    background-color: green;
+}
+
+.normal{
+    background-color: orange;
+}
+
+.hard{
+    background-color: red;
+}
+
+.veryHard{
+    background-color: purple;
+}
+
+.insane{
+    background-color: black;
+}
+
+.insane:hover{
+    color: red;
+    box-shadow: 0 0 0px 3px red;
+}
+
+.again{
+    background-color: deeppink;
+    padding: 10px 20px;
+    color: white;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .2s ease-in;
+}
+
+.again:hover{
+    box-shadow: 0 0 0px 3px rgb(0, 0, 0);
+}
+
+.ingame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.range{
+    width: 90%;
+    height: 50px;
+    background-color: orange;
+    display: flex;
+}
+
+.beforeRange, .afterRange{
+    height: 100%;
+    background-color: green;
+}
+
+
+
+.spaceRange{
+    height: 100%;
+    background-color: orange;
+    flex: 100%;
+}
+
+.userGuess{
+    width: 100px;
+    padding: 5px 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}

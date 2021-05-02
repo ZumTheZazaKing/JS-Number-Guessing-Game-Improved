@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Number Guessing Game</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="intro">
+            <h1 class="header">Number Guessing Game</h1>
+            <p class="desc">Select difficulty:</p>
+            <button class="button easy">Easy</button><br><br>
+            <button class="button normal">Normal</button><br><br>
+            <button class="button hard">Hard</button><br><br>
+            <button class="button veryHard">Very Hard</button><br><br>
+            <button class="button insane">Insane</button>
+        </div>
+
+        <div class="ingame hide">
+            <h2 class="header">Guess the number!</h2>
+            <p class="desc rangeText">Current Range: 1-100</p>
+            <div class="range">
+                <div class="beforeRange"></div>
+                <div class="spaceRange"></div>
+                <div class="afterRange"></div>
+            </div>
+            <p class="desc lives">Lives: 10</p>
+            <input type="number" class="userGuess">
+        </div>
+
+        <div class="end hide">
+            <h2 class="header">Congratulations!<br> You guessed the number!</h2>
+            <p class="desc">The number was ---</p>
+            <button class="again">Play Again</button>
+        </div>
+    </div>
+    
+    <script defer src="script.js"></script>
+</body>
+</html>
